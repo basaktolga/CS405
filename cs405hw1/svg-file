@@ -1,0 +1,109 @@
+<!-- Tolga Basak 29074 -->
+
+
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Title -->
+    <text x="150" y="30" font-size="24" fill="black">Suicides from 2000-2014</text>
+    
+    <!-- Year 2000 -->
+        
+    <rect x="10" y="219.8" width="20" height="180.2" fill="blue" />
+    <text x="5" y="420" font-size="12" fill="black">2000</text>
+
+    <!-- Year 2001 -->
+    <rect x="55" y="142.6" width="20" height="258.4" fill="blue" />
+    <text x="50" y="420" font-size="12" fill="black">2001</text>
+
+    <!-- Year 2002 -->
+    <rect x="100" y="169.9" width="20" height="230.1" fill="blue" />
+    <text x="95" y="420" font-size="12" fill="black">2002</text>
+
+    <!-- Year 2003 -->
+        
+    <rect x="145" y="129.5" width="20" height="270.5" fill="blue" />
+    <text x="140" y="420" font-size="12" fill="black">2003</text>
+    
+    <!-- Year 2004 -->
+        
+    <rect x="190" y="129.3" width="20" height="270.7" fill="blue" />
+    <text x="185" y="420" font-size="12" fill="black">2004</text>
+    
+    <!-- Year 2005 -->
+        
+    <rect x="235" y="129.7" width="20" height="270.3" fill="blue" />
+    <text x="230" y="420" font-size="12" fill="black">2005</text>
+    
+    <!-- Year 2006 -->
+        
+    <rect x="280" y="117.1" width="20" height="282.9" fill="blue" />
+    <text x="275" y="420" font-size="12" fill="black">2006</text>
+    
+    <!-- Year 2007 -->
+        
+    <rect x="325" y="120.7" width="20" height="279.3" fill="blue" />
+    <text x="320" y="420" font-size="12" fill="black">2007</text>
+    
+    <!-- Year 2008 -->
+        
+    <rect x="370" y="118.4" width="20" height="281.6" fill="blue" />
+    <text x="365" y="420" font-size="12" fill="black">2008</text>
+    
+    <!-- Year 2009 -->
+        
+    <rect x="415" y="110.2" width="20" height="289.8" fill="blue" />
+    <text x="410" y="420" font-size="12" fill="black">2009</text>
+    
+    <!-- Year 2010 -->
+        
+    <rect x="460" y="106.7" width="20" height="293.3" fill="blue" />
+    <text x="455" y="420" font-size="12" fill="black">2010</text>
+    
+    <!-- Year 2011 -->
+        
+    <rect x="505" y="132.3" width="20" height="267.7" fill="blue" />
+    <text x="500" y="420" font-size="12" fill="black">2011</text>
+   
+    <!-- Year 2012 -->
+        
+    <rect x="550" y="71.3" width="20" height="328.7" fill="blue" />
+    <text x="545" y="420" font-size="12" fill="black">2012</text>
+   
+    <!-- Year 2013 -->
+        
+    <rect x="595" y="74.8" width="20" height="325.2" fill="blue" />
+    <text x="590" y="420" font-size="12" fill="black">2013</text>
+    
+    <!-- Year 2014 -->
+        
+    <rect x="640" y="83.1" width="20" height="316.9" fill="blue" />
+    <text x="635" y="420" font-size="12" fill="black">2014</text>
+
+    <line x1="5" y1="100" x2="770" y2="100" stroke="#E0E0E0" />
+    <line x1="5" y1="150" x2="770" y2="150" stroke="#E0E0E0" />
+    <line x1="5" y1="200" x2="770" y2="200" stroke="#E0E0E0" />
+    <line x1="5" y1="250" x2="770" y2="250" stroke="#E0E0E0" />
+    <line x1="5" y1="300" x2="770" y2="300" stroke="#E0E0E0" />
+    <line x1="5" y1="350" x2="770" y2="350" stroke="#E0E0E0" />
+
+    <!-- Labels for Y-Axis -->
+    <text x="0" y="50" font-size="12" fill="black">3500</text>
+    <text x="0" y="400" font-size="12" fill="black">0</text>
+
+    <rect x="720" y="60" width="20" height="20" fill="blue" />
+    <text x="745" y="75" font-size="12" fill="black">Suicide Count</text>
+
+    <rect x="720" y="40" width="20" height="2" fill="red" />
+    <text x="745" y="45" font-size="12" fill="black">Crude Death Rate</text>
+
+    <path d="M640,394.45 L595,394.02 L550,396.34 L505,397.13 L460,397.86 L415,396.7 L370,396.22 L325,396.86 L280,397.18 L235,397.02 L190,398.32 L145,398.57 L100,399.72 L55,400 L10,400" fill="none" stroke="red" stroke-width="2" />
+
+
+    <!-- Optional: Vertical Axis -->
+    <line x1="8" y1="50" x2="8" y2="400" stroke="black" />
+    <!-- Optional: Horizontal Axis -->
+    <line x1="7" y1="400" x2="770" y2="400" stroke="black" />
+
+
+</svg>
+
